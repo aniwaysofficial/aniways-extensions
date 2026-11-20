@@ -1,0 +1,117 @@
+{
+  "name": "Aniways Official Extensions",
+  "version": 1,
+  "description": "Official streaming extension repository for Aniways.",
+  "extensions": [
+    {
+      "id": "gogoanime",
+      "name": "Gogoanime",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "Aniways Community",
+      "icon": "icons/gogoanime.png",
+      "audio": [
+        "sub",
+        "dub"
+      ],
+      "lang": "en",
+      "baseUrl": "https://gogoanime.or.at",
+      "description": "Stream sub and dub anime with high availability.",
+      "pkgUrl": "dist/gogoanime.js"
+    },
+    {
+      "id": "anikoto",
+      "name": "Anikoto",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "Aniways Community",
+      "icon": "icons/anikoto.png",
+      "audio": [
+        "sub",
+        "dub"
+      ],
+      "lang": "en",
+      "baseUrl": "https://anikototv.bz",
+      "description": "Fast high-quality direct HLS video streams with soft subtitles from Anikoto.",
+      "pkgUrl": "dist/anikoto.js"
+    },
+    {
+      "id": "anizone",
+      "name": "AniZone",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "Aniways Community",
+      "icon": "icons/anizone.png",
+      "audio": [
+        "sub"
+      ],
+      "lang": "en",
+      "baseUrl": "https://anizone.to",
+      "description": "Direct HLS streams with integrated soft subtitles from AniZone.",
+      "pkgUrl": "dist/anizone.js"
+    },
+    {
+      "id": "aniwaves",
+      "name": "AniWaves",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "Aniways Community",
+      "icon": "icons/aniwaves.png",
+      "audio": [
+        "sub",
+        "dub"
+      ],
+      "lang": "en",
+      "baseUrl": "https://aniwaves.ru",
+      "description": "Stream anime from AniWaves with direct multi-server HLS/MP4 streams and soft subs.",
+      "pkgUrl": "dist/aniwaves.js"
+    },
+    {
+      "id": "animeonsen",
+      "name": "AnimeOnsen",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "Aniways Community",
+      "icon": "icons/animeonsen.png",
+      "audio": [
+        "sub"
+      ],
+      "lang": "en",
+      "baseUrl": "https://www.animeonsen.xyz",
+      "description": "High quality streaming with multi-language soft subtitles from AnimeOnsen.",
+      "pkgUrl": "dist/animeonsen.js"
+    },
+    {
+      "id": "animegg",
+      "name": "AnimeGG",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "Aniways Community",
+      "icon": "icons/animegg.png",
+      "audio": [
+        "sub",
+        "dub"
+      ],
+      "lang": "en",
+      "baseUrl": "https://www.animegg.org",
+      "description": "Fast direct MP4 video streams from AnimeGG.",
+      "pkgUrl": "dist/animegg.js"
+    },
+    {
+      "id": "hianime",
+      "name": "HiAnime",
+      "version": "1.0.0",
+      "versionCode": 1,
+      "author": "Aniways Community",
+      "icon": "icons/hianime.png",
+      "audio": [
+        "sub",
+        "dub"
+      ],
+      "lang": "en",
+      "baseUrl": "https://hianimes.se",
+      "description": "Fast high-quality direct HLS video streams with multi-language soft subtitles from HiAnime.",
+      "pkgUrl": "dist/hianime.js"
+    }
+  ]
+}
